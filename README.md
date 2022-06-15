@@ -7,6 +7,7 @@ Program robot penanam benih semangka menggunakan:
 - Driver Stepper A4988
 - Driver Motor DC BTS7960  
 
+LIST PINOUT
 #Driver Motor DC (BTS7960)
 - Motor 1:
 RPWM 6
